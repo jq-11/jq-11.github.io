@@ -4,23 +4,18 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Introduction
+  - caption: Internships
     chapters:
-    - file: introduction/course-schedule
-    - file: introduction/prework-setup-downloads
-    - file: introduction/meet-your-fac
+    - file: intern/sintef
+    - file: intern/nais
+    - file: intern/meet-your-fac
     
-  - caption: Modules
+  - caption: Projects
     chapters:
-    - file: modules/module1
-    - file: modules/module2
+    - file: projects/pneum_cnn
   
-  - caption: Additional Stuff
-    chapters:
-    - file: markdown-notebooks
-    - file: markdown
-    - file: notebooks
-
-  - caption: Sponsors
-    chapters:
-    - file: sponsors
+  # - caption: Additional Stuff
+  #   chapters:
+  #   - file: markdown-notebooks
+  #   - file: markdown
+  #   - file: notebooks

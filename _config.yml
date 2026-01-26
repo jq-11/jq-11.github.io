@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: \[Workshop Name][Year] # EDIT (the backslash escapes the square bracket, you can remove it)
-author: \[List instructor names] # EDIT
+title: Julia Qiu
+author: Julia Qiu
 logo: img/bioinformatics_logo.png
 
 # Force re-execution of notebooks on each build.
