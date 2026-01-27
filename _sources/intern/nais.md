@@ -1,9 +1,12 @@
-# Pre-workshop Materials
+# AAFC
 
-Click [here](insert link here) for your prework!
+From May to August 2025, I worked at Agriculture and Agri-Food Canada (AAFC) as a Data Science Student & Geospatial Data Analyst. 
 
-<!-- You can insert more here -->
+I specifically worked under the National Agroclimate Information Service (NAIS), 
 
-## Computing Setup & Downloads
 
-Insert downloads (ex. datasets) or other tech instructions here (ex. AWS Instructions)
+
+
+<iframe src="../_images/Principal_Component_Analysis_(PCA).pdf" width="100%" height="600px">
+  Your browser does not support PDFs. <!-- This will appear as alt text (or at least it should) -->
+</iframe>

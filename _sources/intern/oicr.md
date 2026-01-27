@@ -1,51 +1,27 @@
-# Meet Your Faculty
+# OICR
 
-Here's your team!
+<h1>5 Proof-of-Concept Websites</h1>
 
-## Instructor, TA, ...
+<p>Under <a href="https://bioinformatics.ca/">Bioinformatics.ca</a>, I created 5 Proof-of-Concept (POC) websites to test different static website generators to find a new format for the <a href="https://bioinformaticsdotca.github.io/">Canadian Bioinformatics Workshops</a> (CBW) workshop websites. Either POC pages or recreations of the CBW Workshop, Introduction to R 2024 ("INR 2024"), were created to test these static website generators.</p>
 
-![Photo of Person](img/faculty/person.png) <!-- insert image here -->
->Job Title <br>
-Company/University/... <br>
-Location
->
-> --- contact information
+<li><a href="https://cbw-dev.github.io/INR-2024-Recreate/">INR 2024 recreation made using <b>Bookdown</b>, a R package that creates PDFs, EPUB files, and websites. </a></li>
+<li><a href="https://cbw-dev.github.io/INR_2024_Recreate_Carpentries/">INR 2024 recreation made using the <b>Carpentries</b> templates</a></li>
+<li><a href="https://cbw-dev.github.io/INR-2024-Recreate-JB/intro.html">INR 2024 recreation using <b>Jupyter Book</b>, a Python package that creates PDFs, EPUBs, websites, among other formats</a></li>
+<li><a href="https://cbw-dev.github.io/docusaurus-POC/">POC page using <b>Docusaurus</b>, an optimized site generator in React</a></li>
+<li><a href="https://cbw-dev.github.io/quarto-POC/">POC page using <b>Quarto</b>, a publishing system</a></li>
 
-[insert description of the person]
+<h1>Templates and Documentation</h1>
+<p>These templates are made for future workshop creators to be able to easily make a workshop website without any previous website development experience.</p>
 
-## Michelle Brazas, PhD
+<li><a href="https://cbw-dev.github.io/bookdown-template/">CBW's Workshop Bookdown Template</a></li>
+<li><a href="https://cbw-dev.github.io/jupyterbook-template/">CBW's Workshop Jupyter Book Template</a></li>
 
-![Photo of Michelle Brazas](../img/faculty/michelle-brazas.jpg)
+<p>These are the corresponding documentation for the websites, to help explain to (new) users how to use the templates. The bookdown has 2 links, the rough and current documentation.</p>
 
->Scientific Director <br>
-Canadian Bioinformatics Workshops (CBW) <br>
-Toronto, ON, CA
->
-> --- support@bioinformatics.ca
+<li><a href="https://cbw-dev.github.io/bookdown-guide/">CBW's Bookdown Updated Guide</a></li>
+<li><a href="https://cbw-dev.github.io/bookdown-docs/">CBW's Bookdown Original Template Documentation</a></li>
+<li><a href="https://cbw-dev.github.io/jupyterbook-docs/">CBW's Jupyter Book Template Documentation</a></li>
 
-Dr. Michelle Brazas is the Associate Director for Adaptive Oncology at the Ontario Institute for
-Cancer Research (OICR), and acting Scientific Director at Bioinformatics.ca. Previously, Dr.
-Brazas was the Program Manager for Bioinformatics.ca and a faculty member in
-Biotechnology at BCIT. Michelle co-founded and runs the Toronto Bioinformatics User Group
-(TorBUG) now in its 11th season, and plays an active role in the International Society of
-Computational Biology where she sits on the Board of Directors and Executive Board.
+<p><b>NOTE: These websites are hosted under <a href="https://github.com/cbw-dev">cbw-dev</a>, a GitHub managed by CBW, hence, links may become inaccurate, as they are not owned by me.</b></p>
 
-### Nia Hughes (she/her)
-
-![Photo of Nia Hughes](../img/faculty/nia-hughes.jpeg)
-
->Program Manager, Bioinformatics.ca
-Ontario Institute for Cancer Research
-Toronto, ON, Canada
->
-> --- nia.hughes@oicr.on.ca
-
-Nia is the Program Manager for Bioinformatics.ca, where she coordinates the Canadian
-Bioinformatics Workshop Series. Prior to starting at OICR, she completed her M.Sc. in
-Bioinformatics from the University of Guelph in 2020 before working there as a
-bioinformatician studying epigenetic and transcriptomic patterns across maize varieties.
-
-## Class Photo
-
-![Class Photo](./img/class-photo.jpg) <- Replace the file address to your actual class photo file location
-
+<p>Additional links to websites I worked on are available <a href="https://cbw-dev.github.io/">here</a>.</p>

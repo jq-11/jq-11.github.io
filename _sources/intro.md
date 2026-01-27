@@ -3,32 +3,3 @@
 <!-- NOTE: Go to the README.md to help understand what to fill in for this workshop template! -->
 
 Blah Blah Blah
-
-
-<h3>See my <a href="https://github.com/jq-11">Github/Repos</a> for my ML code/projects.</h3>
-
-<h1>5 Proof-of-Concept Websites</h1>
-
-<p>Under <a href="https://bioinformatics.ca/">Bioinformatics.ca</a>, I created 5 Proof-of-Concept (POC) websites to test different static website generators to find a new format for the <a href="https://bioinformaticsdotca.github.io/">Canadian Bioinformatics Workshops</a> (CBW) workshop websites. Either POC pages or recreations of the CBW Workshop, Introduction to R 2024 ("INR 2024"), were created to test these static website generators.</p>
-
-<li><a href="https://cbw-dev.github.io/INR-2024-Recreate/">INR 2024 recreation made using <b>Bookdown</b>, a R package that creates PDFs, EPUB files, and websites. </a></li>
-<li><a href="https://cbw-dev.github.io/INR_2024_Recreate_Carpentries/">INR 2024 recreation made using the <b>Carpentries</b> templates</a></li>
-<li><a href="https://cbw-dev.github.io/INR-2024-Recreate-JB/intro.html">INR 2024 recreation using <b>Jupyter Book</b>, a Python package that creates PDFs, EPUBs, websites, among other formats</a></li>
-<li><a href="https://cbw-dev.github.io/docusaurus-POC/">POC page using <b>Docusaurus</b>, an optimized site generator in React</a></li>
-<li><a href="https://cbw-dev.github.io/quarto-POC/">POC page using <b>Quarto</b>, a publishing system</a></li>
-
-<h1>Templates and Documentation</h1>
-<p>These templates are made for future workshop creators to be able to easily make a workshop website without any previous website development experience.</p>
-
-<li><a href="https://cbw-dev.github.io/bookdown-template/">CBW's Workshop Bookdown Template</a></li>
-<li><a href="https://cbw-dev.github.io/jupyterbook-template/">CBW's Workshop Jupyter Book Template</a></li>
-
-<p>These are the corresponding documentation for the websites, to help explain to (new) users how to use the templates. The bookdown has 2 links, the rough and current documentation.</p>
-
-<li><a href="https://cbw-dev.github.io/bookdown-guide/">CBW's Bookdown Updated Guide</a></li>
-<li><a href="https://cbw-dev.github.io/bookdown-docs/">CBW's Bookdown Original Template Documentation</a></li>
-<li><a href="https://cbw-dev.github.io/jupyterbook-docs/">CBW's Jupyter Book Template Documentation</a></li>
-
-<p><b>NOTE: These websites are hosted under <a href="https://github.com/cbw-dev">cbw-dev</a>, a GitHub managed by CBW, hence, links may become inaccurate, as they are not owned by me.</b></p>
-
-<p>Additional links to websites I worked on are available <a href="https://cbw-dev.github.io/">here</a>.</p>
