@@ -8,7 +8,7 @@ parts:
     chapters:
     - file: intern/sintef
     - file: intern/nais
-    - file: intern/meet-your-fac
+    - file: intern/oicr
     
   - caption: Projects
     chapters:
