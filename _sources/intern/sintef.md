@@ -1,6 +1,6 @@
 # SINTEF
 
-I am currently working at SINTEF in Oslo, Norway, as a Software Developer in Artificial Intelligence Research. 
+I am currently working at **SINTEF** in Oslo, Norway, as a **Software Developer in Artificial Intelligence Research**. 
 
 My main goals are:
 - Implement SafetyCage, a pip-installable Python package for misclassification detection in ML classifiers.
