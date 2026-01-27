@@ -1,3 +1,7 @@
 # SINTEF
 
-Copy paste a table into https://www.tablesgenerator.com/markdown_tables (select convert to markdown) to create a table in markdown.
+I am currently working at SINTEF in Oslo, Norway, as a Software Developer in Artificial Intelligence Research. 
+
+My main goals are:
+- Implement SafetyCage, a pip-installable Python package for misclassification detection in ML classifiers.
+- Write a corresponding research paper to hopefully be published in the Journal of Open Source Software (JOSS).
