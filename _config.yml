@@ -3,7 +3,7 @@
 
 title: Julia Qiu
 author: Julia Qiu
-logo: img/bioinformatics_logo.png
+logo: img/julia_logo.webp
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -30,7 +30,7 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-  favicon: img/favicon.ico
+  favicon: img/star.webp
 
 exclude_patterns: [README.md] # We don't want a README.html to be built
 
