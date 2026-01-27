@@ -1,4 +1,4 @@
-# Julia's Personal Wesbite
+# [Julia's Personal Wesbite](https://jq-11.github.io/)
 
 Hi! This is the repo hosting my personal website, using [Bioinformatics.ca's Jupyter Book template](https://cbw-dev.github.io/jupyterbook-template/intro.html), which was developed using Jupyter Book.
 
