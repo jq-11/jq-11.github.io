@@ -6,8 +6,9 @@ I specifically worked at [Bioinformatics.ca](https://bioinformatics.ca/) under A
 
 In preparation for the [Canadian Bioinformatics Workshops (CBW)](https://bioinformaticsdotca.github.io/) expansion across Canada, my goal was to test proof-of-concept websites and then create templates and documentation for future workshop hosts to use! 
 
-*Every link on this page goes toward a website solely created by me, unless otherwise stated.*
-
+```{note}
+*Every link below goes toward a website solely created by me, unless stated otherwise.*
+```
 
 ```{important}
 NOTE: These websites are hosted under [cbw-dev](https://github.com/cbw-dev), a GitHub managed by CBW. Hence, links may become inaccurate, as they are not owned by me.
